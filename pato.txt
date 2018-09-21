@@ -1,2 +1,3 @@
 hola pato
-El pato vuela al sur.
+El pato vuela al norte.
+El pato vuela al norte.
